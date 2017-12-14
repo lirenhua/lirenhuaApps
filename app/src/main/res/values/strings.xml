@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lirenhuaApp</string>
+    <string name="app_head_title">-- lirenhua demo list --</string>
 </resources>
